@@ -1,0 +1,6 @@
+gradio
+chainlit
+python-dotenv
+pydantic
+fastapi
+uvicorn
